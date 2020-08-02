@@ -4,7 +4,7 @@ Professional Portfolio
 #Create a Portfolio Project
 
 ## I will be honest. I tried really hard on this, but there are just so many concepts here that make zero sense to me. 
-I plan on updating this and mkaing it look "professional" once some of these things begin to click and make sense.
+I plan on updating this and making it look "professional" once some of these things begin to click and make sense.
 Unfortunately that is not at this time. While I tried to resemble to mock-up in some ways, it is painfully clear that 
 I was unable to figure out what exactly to do in some areas.
 
